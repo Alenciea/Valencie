@@ -6,7 +6,7 @@
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-- My İnstagram: [Alenciayz](https://www.instagram.com/alenciayz//)
+- My İnstagram: [Alenciayz](https://www.instagram.com/alenciayz/=target=blank)
 - Discord Sunucum: [V A L O R](https://discord.gg/rsSJU64g79)
 
 <a href="https://github.com/Valencia">
